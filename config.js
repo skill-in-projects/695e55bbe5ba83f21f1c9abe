@@ -1,7 +1,5 @@
 // API Configuration
-// The backend service URL will be automatically configured after deployment.
-// If this is empty after deployment, check Railway dashboard:
-// Service → Settings → Domains to get your service URL.
+// Backend service URL (automatically configured)
 const CONFIG = {
-    API_URL: ""
+    API_URL: "https://webapi695e55bbe5ba83f21f1c9abe-production.up.railway.app"
 };
